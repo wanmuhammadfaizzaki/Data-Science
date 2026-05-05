@@ -41,5 +41,3 @@ Suggestions, improvements, and collaborations are always welcome.
 
 ---
 
-If you want, I can customize this to match your **petroleum engineering + data science angle** (which would actually make your repo stand out more).
-
